@@ -1,9 +1,14 @@
 {
   "eva": {
-    "fecha": "2026-11-16T01:13:55+00:00",
-    "origen": "archivo local Evaluaciones_Agropecuarias_Municipales___EVA__2019_-_2025__Base_Agrícola_20261014.csv",
+    "fecha": "2026-11-16T02:09:28+00:00",
+    "origen": "https://www.datos.gov.co/api/views/uejq-wxrr/rows.csv?accessType=DOWNLOAD",
     "registros": 166732,
     "anios": "2019-2025",
     "filas": 6295
+  },
+  "oni": {
+    "fecha": "2026-11-16T02:09:28+00:00",
+    "origen": "https://www.cpc.ncep.noaa.gov/data/indices/oni.ascii.txt",
+    "ultimo": "2026-09"
   }
 }
