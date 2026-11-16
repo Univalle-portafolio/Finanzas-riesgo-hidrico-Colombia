@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+data/crudo/*
+!data/crudo/dhime/
+data/crudo/dhime/*
+!data/crudo/dhime/LEAME.md
+.streamlit/secrets.toml
